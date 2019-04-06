@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="ru"> <![endif]-->
 <!--[if gt IE 8]>
 <!-->
 <html class="no-js" lang="ru">
@@ -11,7 +11,7 @@
 	================================================== -->
     <meta charset="utf-8">
     <title>Советник по путешествиям по России</title>
-    <meta name="description" content="Professional Creative Template" />
+    <meta name="description" content="Помощник для путешествий" />
     <meta name="author" content="IG Design">
     <meta name="keywords" content="ig design, website, design, html5, css3, jquery, creative, clean, animated, portfolio, blog, one-page, multi-page, corporate, business," />
     <meta property="og:title" content="Professional Creative Template" />
@@ -77,7 +77,7 @@
     <!-- Primary Page Layout
 	================================================== -->
 
-    <div style="margin-top: -30px;" class="section hero-full-height over-hide">
+    <div class="section hero-full-height over-hide">
 
         <div id="poster_background"></div>
         <div id="video-wrap" class="parallax-top">
@@ -111,7 +111,7 @@
                 <figcaption>
                     <h3>Якутия</h3>
                     <span>Ленские столбы</span>
-                    <a href="gallery.html">Больше...</a>
+                    <a href="pages/lenskie_stolby/basic_info.html">Подробнее...</a>
                 </figcaption>
             </figure>
         </li>
