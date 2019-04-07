@@ -1,0 +1,46 @@
+.side-menu {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: #000;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.items {
+    list-style: none;
+}
+
+.items li {
+    color: #fff;
+    width: 100%;
+    line-height: 100px;
+    transition: .2s;
+}
+
+.items li:hover {
+    color: #000;
+    background: #fff;
+}
+
+#infoText, #hotelsText {
+    max-width: 600px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+#infoText p, #hotelsText p {
+    margin-top: 40px;
+}
+
+.non-active {
+    display: none;
+}
+
+.active {
+    display: inline-block;
+}

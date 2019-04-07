@@ -30,9 +30,6 @@
     <meta name="msapplication-navbutton-color" content="#212121" />
     <meta name="apple-mobile-web-app-status-bar-style" content="#212121" />
 
-    <!-- Web Fonts 
-	================================================== -->
-    <link href="https://fonts.googleapis.com/css?family=Comfortaa|Marck+Script" rel="stylesheet">
 
     <!-- CSS
 	================================================== -->
@@ -77,7 +74,7 @@
     <!-- Primary Page Layout
 	================================================== -->
 
-    <div class="section hero-full-height over-hide">
+    <div style="margin-top: -40px" class="section hero-full-height over-hide">
 
         <div id="poster_background"></div>
         <div id="video-wrap" class="parallax-top">
@@ -111,7 +108,7 @@
                 <figcaption>
                     <h3>Якутия</h3>
                     <span>Ленские столбы</span>
-                    <a href="pages/lenskie_stolby/basic_info.html">Подробнее...</a>
+                    <a href="base.php">Подробнее...</a>
                 </figcaption>
             </figure>
         </li>
