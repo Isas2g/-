@@ -3,7 +3,7 @@
         <div class="menu-top background-black">
         </div>
             <div class="logo">
-                <img src="img/132432263_brandlogo_bird.png" alt="">
+                <img src="img/logo.png" alt="">
             </div>
         <div class="menu">
             <ul>

@@ -648,6 +648,7 @@ span.call-top:hover {
     height: 64px;
     z-index: 10000;
     top: 18px;
+    left: 15px;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
     -o-transition: all 0.3s ease-out;
@@ -2596,15 +2597,6 @@ figure.youtube a img {
 }
 
 
-/* #news
-================================================== */
-
-
-/* #Post Page
-=
-/* #contact
-================================================== */
-
 
 /* #Footer
 ================================================== */
@@ -2767,9 +2759,6 @@ figcaption a {
     background-size: cover;
 }
 
-#pip {
-    width: 116%;
-}
 
 
 /* #Media
@@ -2878,52 +2867,6 @@ figcaption a {
     }
 }
 
-@media (max-width: 767px) {
-    .footer .logos-footer img {
-        margin-right: 5;
-        margin-left: 5;
-    }
-    .hero-text {
-        font-size: 24px;
-        line-height: 1.4;
-    }
-    .subscribe-home {
-        box-shadow: 0px 6px 25px 0px rgba(0, 0, 0, 0.4);
-        -webkit-transform: translateY(35px);
-        transform: translateY(35px);
-    }
-    .subscribe-home input {
-        padding-left: 20px;
-        padding-right: 20px;
-        font-size: 17px;
-        line-height: 70px;
-        height: 70px;
-    }
-    .subscribe-home input:-ms-input-placeholder {
-        font-size: 17px;
-        line-height: 70px;
-    }
-    .subscribe-home input::-moz-placeholder {
-        font-size: 17px;
-        line-height: 70px;
-    }
-    .subscribe-home input:-moz-placeholder {
-        font-size: 17px;
-        line-height: 70px;
-    }
-    .subscribe-home input::-webkit-input-placeholder {
-        font-size: 17px;
-        line-height: 70px;
-    }
-    .subscribe-home button {
-        font-size: 11px;
-        line-height: 12px;
-        padding: 29px 15px;
-    }
-    .card-header .btn-link {
-        font-size: 11px;
-    }
-}
 
 @media (max-width: 575px) {
     .card-header .btn-link {
